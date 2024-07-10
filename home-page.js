@@ -1,2 +1,5 @@
 const message = "Seja bem vindo a home page";
-console.log(message)
+
+
+const footer = "Contatos | Instagram | Coisas de footer"
+console.log(footer)
